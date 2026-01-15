@@ -1,0 +1,14 @@
+D:\razdel c\Desktop\Practice\Practice.5\bin\Debug\net8.0\Practice.5.exe
+D:\razdel c\Desktop\Practice\Practice.5\bin\Debug\net8.0\Practice.5.deps.json
+D:\razdel c\Desktop\Practice\Practice.5\bin\Debug\net8.0\Practice.5.runtimeconfig.json
+D:\razdel c\Desktop\Practice\Practice.5\bin\Debug\net8.0\Practice.5.dll
+D:\razdel c\Desktop\Practice\Practice.5\bin\Debug\net8.0\Practice.5.pdb
+D:\razdel c\Desktop\Practice\Practice.5\obj\Debug\net8.0\Practice.5.GeneratedMSBuildEditorConfig.editorconfig
+D:\razdel c\Desktop\Practice\Practice.5\obj\Debug\net8.0\Practice.5.AssemblyInfoInputs.cache
+D:\razdel c\Desktop\Practice\Practice.5\obj\Debug\net8.0\Practice.5.AssemblyInfo.cs
+D:\razdel c\Desktop\Practice\Practice.5\obj\Debug\net8.0\Practice.5.csproj.CoreCompileInputs.cache
+D:\razdel c\Desktop\Practice\Practice.5\obj\Debug\net8.0\Practice.5.dll
+D:\razdel c\Desktop\Practice\Practice.5\obj\Debug\net8.0\refint\Practice.5.dll
+D:\razdel c\Desktop\Practice\Practice.5\obj\Debug\net8.0\Practice.5.pdb
+D:\razdel c\Desktop\Practice\Practice.5\obj\Debug\net8.0\Practice.5.genruntimeconfig.cache
+D:\razdel c\Desktop\Practice\Practice.5\obj\Debug\net8.0\ref\Practice.5.dll
