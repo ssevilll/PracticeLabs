@@ -1,0 +1,15 @@
+D:\razdel c\Desktop\Practice\Practice.6\bin\Debug\net8.0\Practice.6.exe
+D:\razdel c\Desktop\Practice\Practice.6\bin\Debug\net8.0\Practice.6.deps.json
+D:\razdel c\Desktop\Practice\Practice.6\bin\Debug\net8.0\Practice.6.runtimeconfig.json
+D:\razdel c\Desktop\Practice\Practice.6\bin\Debug\net8.0\Practice.6.dll
+D:\razdel c\Desktop\Practice\Practice.6\bin\Debug\net8.0\Practice.6.pdb
+D:\razdel c\Desktop\Practice\Practice.6\obj\Debug\net8.0\Practice.6.GeneratedMSBuildEditorConfig.editorconfig
+D:\razdel c\Desktop\Practice\Practice.6\obj\Debug\net8.0\Practice.6.AssemblyInfoInputs.cache
+D:\razdel c\Desktop\Practice\Practice.6\obj\Debug\net8.0\Practice.6.AssemblyInfo.cs
+D:\razdel c\Desktop\Practice\Practice.6\obj\Debug\net8.0\Practice.6.csproj.CoreCompileInputs.cache
+D:\razdel c\Desktop\Practice\Practice.6\obj\Debug\net8.0\Practice.6.sourcelink.json
+D:\razdel c\Desktop\Practice\Practice.6\obj\Debug\net8.0\Practice.6.dll
+D:\razdel c\Desktop\Practice\Practice.6\obj\Debug\net8.0\refint\Practice.6.dll
+D:\razdel c\Desktop\Practice\Practice.6\obj\Debug\net8.0\Practice.6.pdb
+D:\razdel c\Desktop\Practice\Practice.6\obj\Debug\net8.0\Practice.6.genruntimeconfig.cache
+D:\razdel c\Desktop\Practice\Practice.6\obj\Debug\net8.0\ref\Practice.6.dll
