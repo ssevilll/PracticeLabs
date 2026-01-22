@@ -7,9 +7,7 @@ namespace Practice._6.Services
 {
     public class CardService : ICardServices
     {
-
-        private readonly string _filePath =
-    Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Data", "Cards.json");
+        private readonly string _filePath = "D:/razdel c/Desktop/Practice/Practice.6/Data/Cards.json";
 
 
         public void AddCard(Card card)
@@ -46,8 +44,13 @@ namespace Practice._6.Services
             {
                 return new List<Card>();
             }
-            var jsonData = File.ReadAllText(_filePath);
-            return JsonSerializer.Deserialize<List<Card>>(jsonData) ?? new List<Card>();
+            string json = File.ReadAllText(_filePath);
+
+            if (string.IsNullOrWhiteSpace(json))
+                return new List<Card>();
+
+            return JsonSerializer.Deserialize<List<Card>>(json)
+                   ?? new List<Card>();
         }
 
         public static string MaskCardNumber(Card card)

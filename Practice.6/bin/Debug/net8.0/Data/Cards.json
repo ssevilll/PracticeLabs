@@ -26,5 +26,12 @@
     "Bonus": 0,
     "CardNumber": "1111222233334444",
     "bank": 2
+  },
+  {
+    "Id": 5,
+    "Balance": 2500,
+    "Bonus": 0,
+    "CardNumber": "5555666677778888",
+    "bank": 0
   }
 ]

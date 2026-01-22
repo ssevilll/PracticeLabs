@@ -37,7 +37,7 @@ namespace Practice._6
                 bank = Bank.Leo
             };
 
-            cardService.AddCard(card3);
+            //cardService.AddCard(card3);
 
             Card card4 = new Card()
             {
@@ -48,11 +48,38 @@ namespace Practice._6
             };
 
             //cardService.AddCard(card4);
-            var cards = cardService.GetAllCards();
-            foreach (var c in cards)
+            //var cards = cardService.GetAllCards();
+            //foreach (var c in cards)
+            //{
+            //    Console.WriteLine(c);
+            //}
+
+            Card card5 = new Card()
             {
-                Console.WriteLine(c);
-            }
+                Id = 5,
+                CardNumber = "5555666677778888",
+                Balance = 2500,
+                bank = Bank.ABB
+            };
+            //cardService.AddCard(card5);
+
+            Card card6=new Card()
+            {
+                Id = 6,
+                CardNumber = "8888777766665555",
+                Balance = 3000,
+                bank = Bank.Leo
+            };
+            //cardService.AddCard(card6);
+
+            Card card7=new Card()
+            {
+                Id = 7,
+                CardNumber = "9999000011112222",
+                Balance = 3500,
+                bank = Bank.Kapital
+            };
+            cardService.AddCard(card7);
         }
     }
 }
